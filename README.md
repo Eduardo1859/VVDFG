@@ -25,11 +25,10 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Preview
 
-
-
+![image](https://github.com/Eduardo1859/VVDFG/assets/140715388/0fefffb9-10fe-4dda-a2af-e61d1f3bdc4d)
 
 ## Deploy
 
-O projeto está disponível em [VVDFG no Vercel](https://sistok-murex.vercel.app/) para visualização.
+O projeto está disponível em [VVDFG no Vercel](https://agrotoxico-e-o-cancer.vercel.app/) para visualização.
 
 Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
